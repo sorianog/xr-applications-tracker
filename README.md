@@ -9,6 +9,9 @@ A place to track major applications and software products (not in native app sto
 - [Spatial](https://spatial.is/) - transform any room into an infinite workplace
   - Sign up for the beta: https://spatial.is/signup
 
+- [Adobe Project Aero](https://www.adobe.com/products/projectaero.html) - a powerful new augmented reality (AR) authoring tool that makes it easier for designers to create immersive content.
+  - Sign up for early access: https://projectaero.adobelanding.com/sign-up-form/?promoid=WB99JQ4K&mv=other 
+
 # Virtual Reality (VR)
 - [Microsoft Maquette](https://www.maquette.ms/) - a mixed reality tool for creating immersive prototypes using a PC VR headset.
   - Sign up for the beta: https://www.maquette.ms/beta

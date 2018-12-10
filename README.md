@@ -5,7 +5,11 @@ A place to track major applications and software products (not in native app sto
 - [Scapic](https://scapic.com/) - the easiest platform to build VR, AR & 3D experiences, big or small. No coding necessary, simply drag and drop.
   - Sign up here: https://scapic.com/create/welcome
 
-- [StreamSDK - formerly "Video Chat"](http://midnightstatus.com/?page_id=176) - this SDK offers the ability to conduct one-to-one, one-to-many, or even many-to-many streaming of any content viewable in Unity’s 3D engine (not just web cam video)
+- [StreamSDK - formerly "Video Chat"](http://www.streamsdk.com/)  
+  "This is a drag-drop, cross-platform, no-latency, streaming/sharing solution for Unity XR/AR/VR and anything else Unity can render. The use cases are endless.  
+  A big challenge with XR/AR/VR is collaborating amongst various audiences from within these new experiences in real-time, with no latency, on any device, from anywhere in the world.  
+  We make it easy by allowing developers to stream audio, video, and input just by dragging in a few prefabs.  
+  The shortest distance between two ideas.™" - Jeremy
 
 # Augmented Reality (AR)
 - [Spatial](https://spatial.is/) - transform any room into an infinite workplace

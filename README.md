@@ -18,7 +18,7 @@ Terms:
 - [rumii | Virtual Reality Conferencing and Collaboration Software](https://www.rumii.net/)  
 Your immersive office is here. Collaborate. Design. Perform. In rumii the possibilities are endless.
 
-# [Augmented Reality - AR](https://en.wikipedia.org/wiki/Augmented_reality)
+# Augmented Reality (AR)
 - [Spatial](https://spatial.is/) - transform any room into an infinite workplace
   - Sign up for the beta: https://spatial.is/signup
 
@@ -31,6 +31,6 @@ Your immersive office is here. Collaborate. Design. Perform. In rumii the possib
 
 - [Torch AR](https://www.torch.app/) - "Build Web AR apps with Torch AR and share them on any mobile device—even Android."
 
-# Virtual Reality - VR
+# Virtual Reality (VR)
 - [Microsoft Maquette](https://www.maquette.ms/) - a mixed reality tool for creating immersive prototypes using a PC VR headset.
   - Sign up for the beta: https://www.maquette.ms/beta
